@@ -2,11 +2,11 @@
 >  ### 2019 - 2020 Eğitim Öğretim Yılının İkinci Dönemine ait Derslerin Kritik Konu ve Kazanımlarına Yönelik Öğretim Programları ve Etkinlik Örnekleri
 <br />
 
-![](egitim.jpg)
+![](assests/egitim.jpg)
 
 Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi eğitimlerinin yapılacağını açıkladı. Özel okullarda 15 Ağustos'ta başlayan telafi eğitimi, devlet okullarında 31 Ağustos'ta başlayacak. http://mufredat.meb.gov.tr/201920ikincidonem.html
 
-# Telafi Konuları
+## Telafi Konuları
 
 ##
 <details>
