@@ -81,7 +81,7 @@ Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi e
 </details> 
 <br/>
 
-# Alakalı YouTube Videoları
+## Alakalı YouTube Videoları
 * http://batmanodm.meb.gov.tr/www/lise-telafi-egitimi-videolari/icerik/47
 * https://www.youtube.com/watch?v=i3MtJ3LGfa0&t=349s
 * https://www.youtube.com/watch?v=mVGTnjNdSKs
@@ -90,7 +90,7 @@ Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi e
 
 <br/>
 
-# Bu PDF'leri Nasıl İndirebilirim?
+## Bu PDF'leri Nasıl İndirebilirim?
 
 > Sağ üst köşede bulunan `Code` kısmını kullanarak ZIP dosyası olarak indirebilirsiniz.
 
