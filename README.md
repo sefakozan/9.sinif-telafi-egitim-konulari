@@ -95,3 +95,13 @@ Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi e
 > Sağ üst köşede bulunan `Code` kısmını kullanarak ZIP dosyası olarak indirebilirsiniz.
 
 ![](assests/indirme00.png)
+
+<br/>
+
+----
+<br/>
+
+[![GitHub](https://img.shields.io/github/followers/sefakozan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sefakozan?tab=followers) 
+![Twitter](https://img.shields.io/twitter/follow/mskozan?label=Follow&style=social)
+[![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/mskozan/) 
+[![Linkedln](https://img.shields.io/badge/Linkedln-informational)](https://www.linkedin.com/in/sefa-kozan/) 
