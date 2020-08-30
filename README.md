@@ -101,7 +101,7 @@ Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi e
 ----
 <br/>
 
-[![GitHub](https://img.shields.io/github/followers/sefakozan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/sefakozan?tab=followers) 
-![Twitter](https://img.shields.io/twitter/follow/mskozan?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/sefakozan?label=Follow%20%40sefakozan&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/mskozan?style=social)
 [![Instagram](https://img.shields.io/badge/Instagram-red)](https://www.instagram.com/mskozan/) 
 [![Linkedln](https://img.shields.io/badge/Linkedln-informational)](https://www.linkedin.com/in/sefa-kozan/) 
