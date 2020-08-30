@@ -8,7 +8,7 @@ Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi e
 
 http://mufredat.meb.gov.tr/201920ikincidonem.html
 
-# Dersler
+# Telafi Konuları
 
 ##
 <details>
