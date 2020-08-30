@@ -7,8 +7,6 @@
 Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi eğitimlerinin yapılacağını açıkladı. Özel okullarda 15 Ağustos'ta başlayan telafi eğitimi, devlet okullarında 31 Ağustos'ta başlayacak. http://mufredat.meb.gov.tr/201920ikincidonem.html
 
 ## Telafi Konuları
-
-##
 <details>
   <summary><strong>Biyoloji</strong></summary>
 
