@@ -1,5 +1,5 @@
-# 2019-2020 9.Sınıf 2. Dönem Telafi Eğitim Konuları
->  ### 2019 - 2020 Eğitim Öğretim Yılının İkinci Dönemine ait Derslerin Kritik Konu ve Kazanımlarına Yönelik Öğretim Programları ve Etkinlik Örnekleri
+## 2019-2020 9.Sınıf 2. Dönem Telafi Eğitim Konuları
+> 2019 - 2020 Eğitim Öğretim Yılının İkinci Dönemine ait Derslerin Kritik Konu ve Kazanımlarına Yönelik Öğretim Programları ve Etkinlik Örnekleri
 <br />
 
 ![](assests/egitim.jpg)
