@@ -1,10 +1,14 @@
 # 2019-2020 9.Sınıf 2. Dönem Telafi Eğitim Konuları
 >  ### 2019 - 2020 Eğitim Öğretim Yılının İkinci Dönemine ait Derslerin Kritik Konu ve Kazanımlarına Yönelik Öğretim Programları ve Etkinlik Örnekleri
 <br />
-T.C. Milli Eğitim Bakanlığı tarafından yayımlanan 2019-2020 eğitim öğretim yılının 2. döneminde işlenen kritik konu ve kazanımlara yönelik oluşturulan repository'dir. PDF olarak indirip, çıktısını alabilirsiniz.  
 
-Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi eğitimlerinin yapılacağını açıkladı. Özel okullarda 15 Ağustos'ta başlayan telafi eğitimi, devlet okullarında 31 Ağustos'ta başlayacak.
+![](egitim.jpg)
 
+Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi eğitimlerinin yapılacağını açıkladı. Özel okullarda 15 Ağustos'ta başlayan telafi eğitimi, devlet okullarında 31 Ağustos'ta başlayacak. 
+
+http://mufredat.meb.gov.tr/201920ikincidonem.html
+
+# Dersler
 
 ##
 <details>
@@ -81,13 +85,17 @@ Milli Eğitim Bakanlığı, yeni dönemde açılacak okullar öncesinde telafi e
 </details> 
 <br/>
 
-![](egitim.jpg)
-
-<br/>
-
 # Alakalı YouTube Videoları
 * http://batmanodm.meb.gov.tr/www/lise-telafi-egitimi-videolari/icerik/47
 * https://www.youtube.com/watch?v=i3MtJ3LGfa0&t=349s
 * https://www.youtube.com/watch?v=mVGTnjNdSKs
 * https://www.youtube.com/watch?v=tzS7Od2a-p4&t=7s
 * https://www.youtube.com/watch?v=I4Gkux1edR0
+
+<br/>
+
+# Bu PDF'leri Nasıl İndirebilirim?
+
+> Sağ üst köşede bulunan `Code` kısmını kullanarak ZIP dosyası olarak indirebilirsiniz.
+
+![](assests/indirme00.png)
